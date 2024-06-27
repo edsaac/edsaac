@@ -7,23 +7,20 @@
 
 **********
 
-*Some links:*
-
 Streamlit and stpyvista
 
-- [![Go to stpyvista examples and documentation](https://img.shields.io/static/v1?label=%20&message=Explore%20stpyvista%20🧊%20a%20package%20to%20render%20pyvista%203D%20visualizations%20in%20streamlit%20webapps&color=pink&logo=streamlit)](https://stpyvista.streamlit.app/)
-- [![Go to stpyvista source code](https://img.shields.io/static/v1?label=%20&message=Check%20the%20source%20code%20for%20stpyvista%20🧊&color=053957&logo=github)](https://github.com/edsaac/stpyvista)
-- [![Go to streamlit discourse forum](https://img.shields.io/static/v1?label=%20&message=I%20am%20a%20Streamlit%20Community%20Moderator%20and%20help%20folks%20on%20the%20discourse%20forum&color=FF4B4B&logo=discourse&logoColor=white)](https://discuss.streamlit.io/u/edsaac/summary)
+- [![Go to stpyvista examples and documentation](https://img.shields.io/static/v1?label=%20&message=Explore%20stpyvista%20🧊&color=pink&logo=streamlit)](https://stpyvista.streamlit.app/) [![Go to stpyvista source code](https://img.shields.io/static/v1?label=%20&message=Source%20stpyvista%20🧊&color=053957&logo=github)](https://github.com/edsaac/stpyvista) A package to render [pyvista](https://docs.pyvista.org/version/stable/) 3D visualizations in streamlit webapps.
+- [![Go to streamlit discourse forum](https://img.shields.io/static/v1?label=%20&message=Streamlit%20forum&color=FF4B4B&logo=discourse&logoColor=white)](https://discuss.streamlit.io/u/edsaac/summary) I am a Streamlit Community Moderator and help folks on the discourse forum.
 
 Other packages
 
-- [![Go to turbulence-hyporheic-clogging publication](https://img.shields.io/static/v1?label=%20&message=cloggingFoam,%20an%20OpenFOAM%20solver%20to%20model%20fine%20particle%20deposition%20in%20hyporheic%20zones&color=snow&logo=doi)](https://doi.org/10.1029/2023GL105002)
-- [![Go to espuma repository](https://img.shields.io/static/v1?label=%20&message=espuma,%20a%20tool%20to%20parse%20and%20configure%20OpenFOAM%20cases%20from%20Python%20(🏗️%20Under%20construction)&color=orange&logo=github)](https://github.com/edsaac/espuma)
+- [![Go to turbulence-hyporheic-clogging publication](https://img.shields.io/static/v1?label=%20&message=cloggingFoam&color=snow&logo=doi)](https://doi.org/10.1029/2023GL105002)  An [OpenFOAM](https://openfoam.org/) solver to model fine particle deposition in hyporheic zones.
+- [![Go to espuma repository](https://img.shields.io/static/v1?label=%20&message=Source%20espuma&color=orange&logo=github)](https://github.com/edsaac/espuma) A tool to parse and configure OpenFOAM cases from Python (🏗️ Under construction)
 
 
 Classes and teaching material
   
-- [![Go to CIVENV-340 repository](https://img.shields.io/static/v1?label=%20&message=📖%20Supporting%20material%20for%20the%20Hydraulics%20and%20Hydrology%20class%20(CIVENV-340,%20Spring%202023)&color=pink)](https://github.com/edsaac/NU.CIVENV340)
-- [![Go to CIVENV-440 ADV analysis lab](https://img.shields.io/static/v1?label=%20&message=🌀%20Turbulence%20analysis%20and%20open-channel%20flow%20for%20the%20Environmental%20Transport%20Processes%20class%20(CIVENV-440)&color=purple)](https://edsaac-adv-processing.streamlit.app/)
-- [![Go to CIVENV-440 Sediment transport and image processing lab](https://img.shields.io/static/v1?label=%20&message=⌛%20Sediment%20transport%20and%20image%20processing%20lab%20for%20the%20Environmental%20Transport%20Processes%20class%20(CIVENV-440)&color=purple)](https://edsaac-bedform-migration.streamlit.app/)
+- [![Go to CIVENV-340 Hydraulics and Hydrology with Python](https://img.shields.io/static/v1?label=%20&message=Hydraulics%20and%20Hydrology%20with%20Python%20📖&color=purple&logo=streamlit)](https://hydraulics.streamlit.app) Supporting material for the Hydraulics and Hydrology class (CIVENV-340).
+- [![Go to CIVENV-440 ADV analysis lab](https://img.shields.io/static/v1?label=%20&message=🌀%20Turbulence%20lab&color=purple)](https://edsaac-adv-processing.streamlit.app/) Turbulence and open-channel flow laboratory for the Environmental Transport Processes class (CIVENV-440).
+- [![Go to CIVENV-440 Sediment transport and image processing lab](https://img.shields.io/static/v1?label=%20&message=⌛%20Sediment%20transport%lab&color=purple)](https://edsaac-bedform-migration.streamlit.app/)  Sediment transport and image processing lab for the Environmental Transport Processes class (CIVENV-440)
 
